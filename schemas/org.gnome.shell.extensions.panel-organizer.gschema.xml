@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.panel-organizer" path="/org/gnome/shell/extensions/panel-organizer/">
+    <key name="left-elements" type="as">
+      <default>['Activities', 'AppMenu']</default>
+      <summary>Left panel elements</summary>
+      <description>List of panel elements to be placed on the left side</description>
+    </key>
+    <key name="right-elements" type="as">
+      <default>['DateMenu', 'SystemMenu']</default>
+      <summary>Right panel elements</summary>
+      <description>List of panel elements to be placed on the right side</description>
+    </key>
+  </schema>
+</schemalist>

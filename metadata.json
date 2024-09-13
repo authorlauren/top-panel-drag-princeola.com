@@ -1,0 +1,8 @@
+{
+  "name": "Panel Organizer",
+  "description": "Allows arranging panel elements to left or right positions",
+  "uuid": "top-panel-drag@princeola.com",
+  "shell-version": ["46"],
+  "url": "",
+  "settings-schema": "org.gnome.shell.extensions.panel-organizer"
+}
