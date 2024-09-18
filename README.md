@@ -6,7 +6,6 @@ Panel Organizer is a GNOME Shell extension that allows users to customize the la
 
 ## Features
 
-- Drag-and-drop interface to rearrange panel elements
 - Ability to move elements to the left or right side of the panel
 - Persistent layout that stays consistent across sessions
 - Compatible with GNOME Shell 45 and 46
